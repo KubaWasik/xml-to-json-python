@@ -1,0 +1,128 @@
+<objects>
+    <object>
+        <obj_name>hero_profile 1</obj_name>
+        <field>
+            <name>favorite_fruit</name>
+            <type>string</type>
+            <value>Truskawa</value>
+        </field>
+        <field>
+            <name>hero_name</name>
+            <type>string</type>
+            <value>batman</value>
+        </field>
+        <field>
+            <name>age</name>
+            <type>int</type>
+            <value>32</value>
+        </field>
+    </object>
+    <object>
+        <obj_name>hero_profile Z</obj_name>
+        <field>
+            <name>favorite_fruit</name>
+            <type>string</type>
+            <value>Kokos</value>
+        </field>
+        <field>
+            <name>hero_name</name>
+            <type>string</type>
+            <value>Tomy Lee Jonse w sciganym</value>
+        </field>
+        <field>
+            <name>age</name>
+            <type>int</type>
+            <value>47</value>
+        </field>
+    </object>
+    <object>
+        <obj_name>kolorowe kredki 1</obj_name>
+        <field>
+            <name>kolor</name>
+            <type>string</type>
+            <value>fuksja</value>
+        </field>
+    </object>
+    <object>
+        <obj_name></obj_name>
+    </object>
+    <object>
+        <obj_name>kolorowe kredki B</obj_name>
+        <field>
+            <name>kolor</name>
+            <type>string</type>
+        </field>
+        <lolfield>lol"</lolfield>
+        <field>
+            <name>kolor</name>
+            <type>int</type>
+            <value>42</value>
+        </field>
+    </object>
+    <object>
+        <obj_name>Buty Plytowe Ogolnego Gniewu i Zniszczenia</obj_name>
+        <field>
+            <name>Armor</name>
+            <type>int</type>
+            <value>12</value>
+        </field>
+    </object>
+    <object>
+        <obj_name>Zły obiekt</obj_name>
+        <field>
+            <name>Nazwa</name>
+            <type>float</type>
+            <value>33.786547</value>
+        </field>
+    </object>
+    <object>
+        <obj_name>Pusty</obj_name>
+        <field></field>
+    </object>
+    <object>
+        <obj_name>nie poprawne pola</obj_name>
+        <fieeeeld>
+            <name>name</name>
+            <type>int</type>
+            <value>-9999</value>
+        </fieeeeld>
+        <field>
+            <name>None</name>
+            <type>string</type>
+            <value>None</value>
+        </field>
+    </object>
+    <object>
+        <obj_name>str \n\n\n\n\ :O 1p][,/,``` ``~~~~</obj_name>
+        <field>
+            <name>s1 \a\m\n\v</name>
+            <type>string</type>
+            <value>01 ab 00 vvv
+            </value>
+        </field>
+    </object>
+    <object>
+        <obj_name>not equal types</obj_name>
+        <field>
+            <name>types</name>
+            <type>int</type>
+            <value>million</value>
+        </field>
+    </object>
+    <object>
+        <obj_name>check escape chars</obj_name>
+        <field>
+            <name>nazw\na pola \a\n\s\t\r &amp; &#13; &#10;></name>
+            <type>string</type>
+            <value>wartość pola</value>
+        </field>
+    </object>
+    <object>
+        <obj_name>twins</obj_name>
+        <field>
+            <name>name1</name>
+            <type>string</type>
+            <value>from twins 1</value>
+        </field>
+    </object>
+</objects>
